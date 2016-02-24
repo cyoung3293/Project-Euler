@@ -1,0 +1,12 @@
+.problemStatement {
+	border: 1px solid black;
+	padding: 1px 5px;
+}
+
+.numberSequence {
+	text-align: center;
+}
+
+#ans {
+	font-weight: bold;
+}
